@@ -1,5 +1,7 @@
 h1{
     color:rosybrown;
     font-family: "Arial", sans-serif;
-    background-color: rgba(rgb(78, 187, 127), green, blue, 0.3 alpha);
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
 }
